@@ -66,6 +66,8 @@ Inspite of the two python games which uses the concept random number generation 
 
 **GOOGLE COLAB** - Editor used in project
 
+**JAVA SCRIPT, HTML and CSS** - To make the web page
+
 **💡CHALLENGES FACED AND LEARNING:**
 
 1. Learnt about qubits, quantum gates and quantum circuits.
@@ -78,6 +80,7 @@ Inspite of the two python games which uses the concept random number generation 
 1. [IITR QCG PORTAL](https://medium.com/@qcgiitr)
 2. [AUDIO FILE MAKER](https://www.youtube.com/watch?v=lDAJxvnbUQ0)
 3. [RANDOM NUMBER](https://www.youtube.com/watch?v=ryBziM92MgE)
+4. [JS,HTML,CSS TUTORIALS](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 
 **🐛 BUG REPORTING**
 
