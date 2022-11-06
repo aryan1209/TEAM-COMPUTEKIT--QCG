@@ -27,7 +27,7 @@ As per this sequence, the word corresponding to each will be played by an audio 
 
 In this game, a random number is being generated from 1-26 which corresponds to an array of voices of the alphabets. The random number is being generated through qiskit by making qubits and a circuit including hadmard gate. A random number from 1-26 will correspond to a certain voice and will be inputed to user. Then user have to type the correct alphabet for that voice. If user type the right answer game will continue else one will loose.
 
-for ex:- 4 is the random number generated. Now user will listen the alphabet B and then one have to type the same alphabet from the screen. If it matches the actual alphabet user wins.
+for ex:- 4 is the random number generated. Now user will listen the alphabet D and then one have to type the same alphabet from the screen. If it matches the actual alphabet user wins.
 
 ***💻 Tech Stack / Dependencies***
 
