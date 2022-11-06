@@ -15,9 +15,6 @@ This project is made as a part of the IITR QCG-DEAD AND ALIVE HACKATHON,2022. It
 This project aims to sharpen your memory by our memory game and also to help kids to train their pronounciation using english alphabets via the pronounciation game.
 Random numbers will be generated using the qiskit and then corresponding to these numbers , which will be acting as indecis for a defined numpy array, audio files will run for the word corresponding to that particular index.
 
-
-***WORKING***
-
 **GAME 1- REMEMBER THE SEQUENCE**
 
 In this game, we have stored an array of 6 famous words in our campus like chapo,BT etc in a particular sequence. Now, the user will be allowed to listen these words in the correct order from 1 to 6. After this, the user is asked to pick a number to generate a random number sequence.
