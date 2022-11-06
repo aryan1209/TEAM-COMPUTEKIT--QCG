@@ -10,6 +10,11 @@ HOW TO RUN PYTHON FILES OF OUR 2 GAMES
 
 This project is made as a part of the IITR QCG-DEAD AND ALIVE HACKATHON,2022. It involves developing games used to enhance your memory and also to better your pronounciation of various english alphabets using random number audio file generator by qiskit.
 
+**📌 TABLE OF CONTENTS-**
+
+1. Description/Internal Working
+2. 
+
 ***📓 Description / Internal Working***
 
 This project aims to sharpen your memory by our memory game and also to help kids to train their pronounciation using english alphabets via the pronounciation game.
@@ -39,7 +44,7 @@ for ex:- 4 is the random number generated. Now user will listen the alphabet D a
 
 **GOOGLE COLAB** - Editor used in project
 
-**💡CHALLENGES FACED AND LEARNING: **
+**💡CHALLENGES FACED AND LEARNING:**
 
 1. Learnt about qubits, quantum gates and quantum circuits.
 2. Got familiar with Qiskit and Python language.
