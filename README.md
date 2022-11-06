@@ -31,10 +31,19 @@ In this game, we have stored an array of 6 famous words in our campus like chapo
 
 For eg: The input is 7 and the random number sequence is [1,2,5,6,6,4,3] 
 
-As per this sequence, the word to corresponding to each will be played by an audio file
+As per this sequence, the word corresponding to each will be played by an audio file. The user will listen these and then have to guess that random sequence of the audio files. This will help the user to enhance their memory.
+
+***💻 Tech Stack / Dependencies***
+
+**PYTHON** - This project is made using the python programming language
+
+**QISKIT** - Used to generate random numbers by applying hadamrad gates
+
+**NUMPY** - To work with matrices
+
+**GOOGLE COLAB** - Editor used in project
 
 
 
-**GAME 2-TYPING CORRECT ALPHABET BY LISTING TO ALPHABETS AUDIO TO ENHANCE PRONOUNCIATION (KIDS) **
 
-In this game, we have firstly generated a single random number from 1-26 correspoonding to each english alphabet. We make qubits corresponding to every numbers and then we built a circuit using a hadmard gate. We got an output of a number from 1-26 and then we make an array of 26 indices which corresponds to each voice of the given alphabet.  
+
