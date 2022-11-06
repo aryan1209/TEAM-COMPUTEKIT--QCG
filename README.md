@@ -13,7 +13,12 @@ This project is made as a part of the IITR QCG-DEAD AND ALIVE HACKATHON,2022. It
 **📌 TABLE OF CONTENTS-**
 
 1. Description/Internal Working
-2. 
+2. GAME 1 & 2
+3. About the webpage
+4. Tech stack/dependancies
+5. Challenges faced and learning
+6. Resources
+7. Bug reporting
 
 ***📓 DESCRIPTION / INTERNAL WORKING***
 
@@ -33,6 +38,23 @@ As per this sequence, the word corresponding to each will be played by an audio 
 In this game, a random number is being generated from 1-26 which corresponds to an array of voices of the alphabets. The random number is being generated through qiskit by making qubits and a circuit including hadmard gate. A random number from 1-26 will correspond to a certain voice and will be inputed to user. Then user have to type the correct alphabet for that voice. If user type the right answer game will continue else one will loose.
 
 for ex:- 4 is the random number generated. Now user will listen the alphabet D and then one have to type the same alphabet from the screen. If it matches the actual alphabet user wins.
+
+**ABOUT THE WEBPAGE**
+
+
+Inspite of the two python games which uses the concept random number generation using qiskit, we tried to develop a webpage on which these games could be played. So we just created a webpage which in future we could use by linking our pyhton-random number generator code. As of now we just used a number by ourself (6 digit) and then by using this number as the random number we wrote our further javascript code to develop the webpage.
+
+***How to run the HTML,JAVASCRIPT,CSS files?***
+
+1. Download all the files from the repository as zip files.
+2. Extract the folder. 
+3. Now create a folder named 'sounds' and keep it in the same folder which was extracted. 
+4. Select all the sounds files(12 in number) and then move them into the folder named- 'sounds'. 
+5. Now run the index.html file in microsoft edge. 
+6. Press spacebar to start and again consecutively press spacebar to listen to the sounds. 
+7. After that press the spacebar 6 times(as for reference we used 6 digit no. as a random no.) with some pause to listen to the random sounds. 
+8. After that click on the buttons in the same order as the sound was played. 
+9. If you got all correct you will win otherwise the screen will blink with red color.
 
 ***💻 TECH STACK / DEPENDANCIES***
 
