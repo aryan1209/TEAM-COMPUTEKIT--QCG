@@ -15,7 +15,7 @@ This project is made as a part of the IITR QCG-DEAD AND ALIVE HACKATHON,2022. It
 1. Description/Internal Working
 2. 
 
-***📓 Description / Internal Working***
+***📓 DESCRIPTION / INTERNAL WORKING***
 
 This project aims to sharpen your memory by our memory game and also to help kids to train their pronounciation using english alphabets via the pronounciation game.
 Random numbers will be generated using the qiskit and then corresponding to these numbers , which will be acting as indecis for a defined numpy array, audio files will run for the word corresponding to that particular index.
@@ -34,7 +34,7 @@ In this game, a random number is being generated from 1-26 which corresponds to 
 
 for ex:- 4 is the random number generated. Now user will listen the alphabet D and then one have to type the same alphabet from the screen. If it matches the actual alphabet user wins.
 
-***💻 Tech Stack / Dependencies***
+***💻 TECH STACK / DEPENDANCIES***
 
 **PYTHON** - This project is made using the python programming language
 
