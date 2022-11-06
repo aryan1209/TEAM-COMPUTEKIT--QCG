@@ -8,7 +8,7 @@ HOW TO RUN PYTHON FILES OF OUR 2 GAMES
 
 **MAKING LEARNING MEMORY GAMES USING RANDOM NUMBER AND AUDIO FILE CONVERTOR**
 
-This project is made as a part of the IITR QCG-DEAD AND ALIVE HACKATHON,2022. It involves developing games used to enhance your memory and also to better your pronounciation of various english alphabets using random number audio file generator by qiskit.
+This project is made as a part of the IITR QCG-DEAD AND ALIVE HACKATHON,2022. It involves developing games used to enhance  memory and also to better pronounciation for kids of various english alphabets using random number audio file generator by qiskit.
 
 **📌 TABLE OF CONTENTS-**
 
@@ -23,11 +23,11 @@ This project is made as a part of the IITR QCG-DEAD AND ALIVE HACKATHON,2022. It
 ***📓 DESCRIPTION / INTERNAL WORKING***
 
 This project aims to sharpen your memory by our memory game and also to help kids to train their pronounciation using english alphabets via the pronounciation game.
-Random numbers will be generated using the qiskit and then corresponding to these numbers , which will be acting as indecis for a defined numpy array, audio files will run for the word corresponding to that particular index.
+Random numbers will be generated using the qiskit and then corresponding to these numbers , which will be acting as indices for a defined numpy array, audio files will run for the word corresponding to that particular index.
 
 **GAME 1- REMEMBER THE SEQUENCE**
 
-In this game, we have stored an array of 6 famous words in our campus like chapo,BT etc in a particular sequence. Now, the user will be allowed to listen these words in the correct order from 1 to 6. After this, the user is asked to pick a number to generate a random number sequence.
+In this game, we have stored an array of 6 famous words in our campus like chapo, Dassi in a particular sequence. Now, the user will be allowed to listen these words in the correct order from 1 to 6. After this, the user is asked to pick a number to generate a random number sequence.
 
 For eg: The input is 7 and the random number sequence is [1,2,5,6,6,4,3] 
 
