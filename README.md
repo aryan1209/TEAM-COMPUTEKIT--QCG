@@ -50,9 +50,14 @@ for ex:- 4 is the random number generated. Now user will listen the alphabet B a
 4. How to convert strings to audio files
 
 **📚 RESOURCES**
+
 1. [IITR QCG PORTAL](https://medium.com/@qcgiitr)
 2. [AUDIO FILE MAKER](https://www.youtube.com/watch?v=lDAJxvnbUQ0)
 3. [RANDOM NUMBER](https://www.youtube.com/watch?v=ryBziM92MgE)
+
+**🐛 BUG REPORTING**
+
+Feel free to [open an issue](https://github.com/aryan1209/TEAM-COMPUTEKIT--QCG/issues) on Github if you find bugs.
 
 
 
